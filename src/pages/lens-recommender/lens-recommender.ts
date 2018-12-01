@@ -19,7 +19,7 @@ import { ToastController } from 'ionic-angular';
 })
 export class LensRecommenderPage {
   public ROOT_URL = 'https://vision.googleapis.com';
-    public API_KEY = 'AIzaSyBwzIlJsFclNrSOhlneKqkM2km4NgBvxFc'; // YOUR CLOUD PLATFORM API KEY
+    public API_KEY = 'AIzaSyCvXib5F7efIZ63uq1j_m43TGWH2W7SH1E'; // YOUR CLOUD PLATFORM API KEY
     public visionRequest = {
       "requests": [{
           "image": {

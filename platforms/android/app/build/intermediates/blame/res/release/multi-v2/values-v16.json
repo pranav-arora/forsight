@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/reydon227/Desktop/clients/forsight/mobile-app/main/forsight/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/reydon227/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/afd2995ee7845ea33c35efa95b2ccc1f/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/reydon227/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/7b4e991e8f8ad812b37e3f4390899961/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
